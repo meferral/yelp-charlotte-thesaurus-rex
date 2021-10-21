@@ -1,3 +1,4 @@
+### This was an independent project we worked on in a group setting.  
 ### Exploration and Analysis of Yelp reviews of businesses in Charlotte, NC.  
 
 #### Power Pivot
